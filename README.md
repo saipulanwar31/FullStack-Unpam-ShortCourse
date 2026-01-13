@@ -7,4 +7,4 @@
 - **Universitas** : Pamulang
 
 ## Tentang Repository
-Repository ini dibuat untuk keperluan pengumpulan tugas.
+Repository ini dibuat untuk keperluan pengumpulan tugas ShortCourse Day 1.
